@@ -1,0 +1,27 @@
+.env
+db.sqlite3
+__pycache__/
+.vscode/
+*.pyc
+
+venv/
+
+
+.venv/
+venv/
+env/
+tracker/.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+build/
+
+
+
+
+# C:\av_coding_2\MoneyNotes-main\Frontend\expense-frontend> npm run dev
+
+# (.venv) PS C:\av_coding_2\MoneyNotes-main\tracker> python manage.py migrate
+# >> python manage.py runserver
