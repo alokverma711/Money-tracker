@@ -161,21 +161,3 @@ MoneyNotes uses Google Gemini for:
 **Note**: AI features are rate-limited on the free tier.
 When limits are reached, the application gracefully falls back without breaking core functionality.
 
----
-
-## 📚 What I Learned & Challenges Overcome
-  * How to build a backend using Django REST Framework
-  * How to build a working frontend using React
-  * How to connect frontend and backend
-  * How authentication works in real applications
-  * How to use databases properly in full-stack projects
-  * How to integrate AI using APIs
-  * How to deploy backend and frontend
-  * How to debug network, CORS, and deployment issues
-  * How to handle AI limits and errors gracefully
-
----
-
-## 📄License
-
-This project is open-source and available under the MIT License.
